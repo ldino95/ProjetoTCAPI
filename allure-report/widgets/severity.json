@@ -1,0 +1,101 @@
+[ {
+  "uid" : "822850b4efd4db4f",
+  "name" : "Validar retorno de status de quando o deck nao e informado",
+  "time" : {
+    "start" : 1625354348527,
+    "stop" : 1625354348819,
+    "duration" : 292
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59063bd4f84ef51f",
+  "name" : "Validar retorno do status de Deck nao existente ",
+  "time" : {
+    "start" : 1625354347480,
+    "stop" : 1625354347643,
+    "duration" : 163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f07a72d2311b7bfd",
+  "name" : "Validar que ao informar ID existente o retorno da api é com sucesso",
+  "time" : {
+    "start" : 1625354347306,
+    "stop" : 1625354347475,
+    "duration" : 169
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28491d5662ac38f1",
+  "name" : "Validar se API e valida",
+  "time" : {
+    "start" : 1625354343881,
+    "stop" : 1625354344291,
+    "duration" : 410
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb06e18a995cad1c",
+  "name" : "Validar resposta de quando numero de deck e informado e maior que 20",
+  "time" : {
+    "start" : 1625354345207,
+    "stop" : 1625354345484,
+    "duration" : 277
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b0ea8d77a75e899",
+  "name" : "Validar resposta de quando numero de deck nao e informado",
+  "time" : {
+    "start" : 1625354344902,
+    "stop" : 1625354345203,
+    "duration" : 301
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b94410b11bb20727",
+  "name" : "Validar retorno de status da API e igual a 201",
+  "time" : {
+    "start" : 1625354347648,
+    "stop" : 1625354348474,
+    "duration" : 826
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a989e3fa02f11c2",
+  "name" : "Validar resposta de quando numero de decks validos e informado",
+  "time" : {
+    "start" : 1625354344607,
+    "stop" : 1625354344898,
+    "duration" : 291
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68aa507ab079b5c3",
+  "name" : "Validar retorno de status da API e igual a 200",
+  "time" : {
+    "start" : 1625354346997,
+    "stop" : 1625354347302,
+    "duration" : 305
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87cf497ae263eba5",
+  "name" : "Validar se api valida lista deck",
+  "time" : {
+    "start" : 1625354344310,
+    "stop" : 1625354344601,
+    "duration" : 291
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

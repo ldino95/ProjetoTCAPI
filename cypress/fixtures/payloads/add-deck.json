@@ -1,0 +1,19 @@
+{
+   
+    "success": true,
+    "deck_id": "ip9c1i5lwn1j",
+    "cards": [
+        {
+            "code": "KD",
+            "image": "https://deckofcardsapi.com/static/img/KD.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/KD.svg",
+                "png": "https://deckofcardsapi.com/static/img/KD.png"
+            },
+            "value": "KING",
+            "suit": "DIAMONDS"
+        }
+    ],
+    "remaining": 50
+    
+}

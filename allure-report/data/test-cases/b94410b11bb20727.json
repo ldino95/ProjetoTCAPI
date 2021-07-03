@@ -1,0 +1,84 @@
+{
+  "uid" : "b94410b11bb20727",
+  "name" : "Validar retorno de status da API e igual a 201",
+  "fullName" : "Validar retorno de status da API e igual a 201",
+  "historyId" : "2ff23d12f5f172bd2030f402814428e9",
+  "time" : {
+    "start" : 1625354347648,
+    "stop" : 1625354348474,
+    "duration" : 826
+  },
+  "status" : "failed",
+  "statusMessage" : "expected 200 to equal 201",
+  "statusTrace" : "AssertionError: expected 200 to equal 201\n    at Context.eval (https://deckofcardsapi.com/__cypress/tests?p=cypress\\integration\\POSTDecks.specs.js:157:34)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected 200 to equal 201",
+    "statusTrace" : "AssertionError: expected 200 to equal 201\n    at Context.eval (https://deckofcardsapi.com/__cypress/tests?p=cypress\\integration\\POSTDecks.specs.js:157:34)",
+    "steps" : [ {
+      "name" : "request (\"[object Object]\")",
+      "time" : {
+        "start" : 1625354347680,
+        "stop" : 1625354347940,
+        "duration" : 260
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "84a70686bf7e621e",
+      "name" : "POSTDecks.specs.js:2021-07-03T23:19:07.966Z",
+      "source" : "84a70686bf7e621e.png",
+      "type" : "image/png",
+      "size" : 86085
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ {
+    "time" : { },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "POST Decks"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b94410b11bb20727.json",
+  "parameterValues" : [ ]
+}
